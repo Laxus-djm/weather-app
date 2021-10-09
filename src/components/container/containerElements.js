@@ -36,7 +36,7 @@ export const Content = styled.div`
   background-position: 50%;
   width: 80%;
   height: 650px;
-  min-width: 320px;
+  min-width: 360px;
   margin: auto;
   position: absolute;
   top: 50%;
